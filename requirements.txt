@@ -1,0 +1,11 @@
+# Starting environment; not a recovered historical lockfile.
+jupyterlab
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+lightgbm
+xgboost
+joblib
