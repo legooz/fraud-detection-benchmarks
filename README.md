@@ -20,10 +20,10 @@ Python 3.11 or 3.12 is a starting point. Run cells in order. Install `requiremen
 
 ## Experiments
 
-- Random Forest, XGBoost, and SVM classification.
+- [Random Forest transaction-fraud classification](notebooks/transaction-fraud-random-forest.ipynb), XGBoost, and SVM classification.
 - LightGBM and dense neural-network comparisons.
 - Isolation Forest, neighborhood-based, and one-class anomaly detection.
-- IEEE-CIS transaction/identity data preparation.
+- [IEEE-CIS transaction/identity preparation and LightGBM split experiments](notebooks/ieee-cis-preparation-and-lightgbm-splits.ipynb).
 - Streaming simulation with ROC-AUC, average precision, precision, recall, and F1 tracking.
 
 ## Data and interpretation
